@@ -2,7 +2,7 @@
 
 There are three simple demo apps here which have been taken from a running Windows Server 2003 machine. This lab shows you how to migrate them all to Docker Windows containers, so you can run them on Windows Server 2016 in the datacenter or in any cloud.
 
-> You'll deploy the applications using ZIP files that were the original deployment packages for Windows Server 2003. No need to change code to move apps to Docker.
+> You'll deploy the applications using ZIP files that were the original deployment packages for Windows Server 2003. No need to change code to move apps to Docker. Hi.
 
 ## Pre-requisites
 
